@@ -1,9 +1,10 @@
 This project solution for kata19 word chain problem.
 http://codekata.com/kata/kata19-word-chains/
-I used java 8 and spring boot in solution. I made rest web services. 
+Java 8 and spring boot is used in this solution. Rest web service is written for user input. 
 It takes two argument. Initial word and final word.
 
 Image below show argument usage.
+
 ![Alt text](https://raw.githubusercontent.com/huseyinjkilic/katagaSolution/master/screenshots/catToDog.png "Cat to dog rest example")
 
 There are two possible solution for this problem breadth-first search and dijkstra's algorithm.
