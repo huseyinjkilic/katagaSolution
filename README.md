@@ -21,7 +21,7 @@ There is also console output file under this directory => output files/outputOfM
 
 For run jar file you should have java 8 in your computer.
 
-Here is screenshot for example of usage jar file.
+Here is screenshot for example of usage jar file. There is a high resolution version of screenshot if you click the image.
 ![Alt text](https://raw.githubusercontent.com/huseyinjkilic/katagaSolution/master/screenshots/Runing%20jar%20file.png "Runnable jar usage")
 
 It should be 10 second to initialize tomcat server.
